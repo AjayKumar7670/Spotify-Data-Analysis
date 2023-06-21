@@ -21,4 +21,4 @@
 6. Duration of most of the songs
 7. Distribution of various continous and discrete features 
 8. Features correlation analysis and plot
-9. Scatter plot of most correlated and non correlated features
+9. Scatter plot of most correlated and non correlated features 
