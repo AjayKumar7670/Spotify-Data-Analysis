@@ -19,6 +19,6 @@
     j.valence
 5. Top 10 energetic tracks
 6. Duration of most of the songs
-7. Distribution of various continous and discrete features
+7. Distribution of various continous and discrete features 
 8. Features correlation analysis and plot
 9. Scatter plot of most correlated and non correlated features
